@@ -1,0 +1,6 @@
+{
+  "name": "Startup Landing Page",
+  "description": "A professional, clean, and user-friendly landing page for a new startup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
